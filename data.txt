@@ -48,9 +48,9 @@
 	last_updated: 2013-10-22
 [quora]
 	company: Quora
-	num_female_eng: 3
-	num_eng: 34
-	last_updated: 2013-10-22
+	num_female_eng: 4
+	num_eng: 35
+	last_updated: 2013-10-31
 [optimizely]
 	company: Optimizely
 	num_female_eng: 1
@@ -167,6 +167,11 @@
 	num_female_eng: 0
 	num_eng: 20
 	last_updated: 2013-10-24
+[theladders]
+	company: TheLadders
+	num_female_eng: 6
+	num_eng: 35
+	last_updated: 2013-10-25
 [rdio]
 	company: Rdio
 	num_female_eng: 9
@@ -253,6 +258,11 @@
 	num_female_eng: 5
 	num_eng: 15
 	last_updated: 2013-10-23
+[sosh]
+	company: Sōsh
+	num_female_eng: 0
+	num_eng: 4
+	last_updated: 2013-11-01
 [qstream]
 	company: Qstream
 	num_female_eng: 0
@@ -268,6 +278,12 @@
 	num_female_eng: 2
 	num_eng: 8
 	last_updated: 2013-10-24
+[guidewirefostercity]
+	company: Guidewire Software
+	team: Foster City office
+	num_female_eng: 21
+	num_eng: 122
+	last_updated: 2013-10-31
 [qualcommaustin]
 	company: Qualcomm
 	team: Austin, TX office
@@ -335,8 +351,84 @@
 	num_female_eng: 1
 	num_eng: 4
 	last_updated: 2013-10-25
+[github]
+	company: GitHub
+	num_female_eng: 10
+	num_eng: 160
+	last_updated: 2013-10-26
 [bitly]
 	company: Bitly
 	num_female_eng: 1
+	num_eng: 21
+	last_updated: 2013-11-5
+[flickr]
+	company: Yahoo
+	team: Flickr
+	num_female_eng: 4
+	num_eng: 42
+	last_updated: 2013-10-28
+[snapchat]
+	company: Snapchat
+	num_female_eng: 2
+	num_eng: 13
+	last_updated: 2013-10-24
+[kiva]
+	company: Kiva
+	num_female_eng: 3
 	num_eng: 24
+	last_updated: 2013-10-25
+[kanjoya]
+	company: Kanjoya
+	num_female_eng: 4
+	num_eng: 21
+	last_updated: 2013-10-25
+[spitfire]
+	company: Spitfire Athlete
+	num_female_eng: 2
+	num_eng: 2
+	last_updated: 2013-10-25
+[omniti]
+	company: OmniTI
+	num_female_eng: 5
+	num_eng: 22
+	last_updated: 2013-10-25
+[thoughtbot]
+	company: thoughtbot
+	num_female_eng: 5
+	num_eng: 45
 	last_updated: 2013-10-26
+[treehouse]
+	company: Treehouse
+	num_female_eng: 0
+	num_eng: 25
+	last_updated: 2013-10-28
+[skillshare]
+	company: Skillshare
+	num_female_eng: 1
+	num_eng: 6
+	last_updated: 2013-10-28
+[changeorg]
+	company: Change.org, Inc.
+	num_female_eng: 3
+	num_eng: 24
+	last_updated: 2013-10-31
+[causes]
+	company: Causes.com
+	num_female_eng: 0
+	num_eng: 18
+	last_updated: 2013-10-31
+[radius]
+	company: Radius.com
+	num_female_eng: 3
+	num_eng: 12
+	last_updated: 2013-11-01
+[togandporter]
+	company: Tog+Porter
+	num_female_eng: 1
+	num_eng: 1
+	last_updated: 2013-10-31
+[gamechanger]
+	company: GameChanger.io
+	num_female_eng: 1
+	num_eng: 12
+	last_updated: 2013-11-01
